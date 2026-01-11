@@ -1,0 +1,15 @@
+# editor / OS noise
+*.swp
+*.tmp
+*~
+.DS_Store
+
+# build artifacts
+/build
+/dist
+
+# secrets (never commit)
+.env
+*.key
+*.pem
+*.crt
