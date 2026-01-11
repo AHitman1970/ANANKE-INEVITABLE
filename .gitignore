@@ -13,3 +13,6 @@
 *.key
 *.pem
 *.crt
+
+# Rust
+/target
